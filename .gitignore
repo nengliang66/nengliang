@@ -1,0 +1,11 @@
+# 依赖与临时文件
+node_modules/
+.tmp/
+*.log
+.DS_Store
+Thumbs.db
+
+# Python 虚拟环境
+.venv/
+vendor_py/
+__pycache__/
